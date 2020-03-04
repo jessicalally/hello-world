@@ -1,2 +1,2 @@
-# hello-world
-Practice Repository
+# hello world
+Practice repository
